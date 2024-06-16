@@ -181,12 +181,12 @@ background-color: rgba(0, 225, 0, 0.6);
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfthqlLr9d0?si=0Px_Pwk93j-NyMju" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<h4>高友の歌〜歌え！</h4>
+<h4>校友のうた〜歌え！</h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Fj9ktKhQ_c?si=Dj1MVOndpZkRPPn4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
- 
-
+<h4>二次会一本締め！</h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7AOqFsJHQw?si=x2Wop0bIdW58YTqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br><br><br><br><br><br>
