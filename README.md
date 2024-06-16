@@ -109,7 +109,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h4><span class="white">★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会写真集 ★☆★☆★☆</span></h4>
 　
-<h3>当日早々にLINE共有された画像集です<br>会場で撮影係を務めてくれた田中正人さんの画像は<br>超力作につき別ページを立ち上げてます。</h3>
+<h3>当日早々にLINE共有された画像集です<br>会場で撮影係を務めてくれた田中正人さんの画像は<br>超力作につき別ページを立ち上げてます。(動画系のみちらに集約しました)</h3>
 <h4>開会の言葉。</h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNrp6Z0RMz0?si=OG3fLHFmpcKdY-5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="20240615_001.JPG" data-lightbox="abc"><img src="20240615_001.JPG" alt="サンプル画像" width="900" /></a>
