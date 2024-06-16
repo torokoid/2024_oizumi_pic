@@ -208,5 +208,5 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2024/Jun/15 Pe-Young(S.Hada)</span>
+ <span class="white">Copyright 2024/Jun/16 Pe-Young(S.Hada)</span>
  </footer>
