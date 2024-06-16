@@ -109,8 +109,9 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h4><span class="white">★☆★☆★☆ 東京都立大泉高等学校30期卒業生　同期会写真集 ★☆★☆★☆</span></h4>
 　
-<h2>当日早々にLINE共有された画像集です<br>撮影係を名乗り出てくれた田中正人さんの画像は大量につき別ページを立ち上げてあります。</h2>
+<h3>当日早々にLINE共有された画像集です<br>撮影係を名乗り出てくれた田中正人さんの画像は<br>超力作につき別ページを立ち上げてます。</h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QNrp6Z0RMz0?si=OG3fLHFmpcKdY-5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <a href="20240615_001.JPG" data-lightbox="abc"><img src="20240615_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_002.JPG" data-lightbox="abc"><img src="20240615_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_003.JPG" data-lightbox="abc"><img src="20240615_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -176,7 +177,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240615_063.JPG" data-lightbox="abc"><img src="20240615_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_064.JPG" data-lightbox="abc"><img src="20240615_064.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfthqlLr9d0?si=0Px_Pwk93j-NyMju" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
