@@ -163,6 +163,10 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240615_049.JPG" data-lightbox="abc"><img src="20240615_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_050.JPG" data-lightbox="abc"><img src="20240615_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_051.JPG" data-lightbox="abc"><img src="20240615_051.JPG" alt="サンプル画像" width="900" /></a>
+
+<p>松井です。<br>
+幹事の皆さま、ありがとうございました。とっても楽しい時間でした！<br>
+まだまだ名残惜しいですが、帰ります。気がついたら新大阪、だけは避けたいです、笑</p>
 <a href="20240615_052.JPG" data-lightbox="abc"><img src="20240615_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_053.JPG" data-lightbox="abc"><img src="20240615_053.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240615_054.JPG" data-lightbox="abc"><img src="20240615_054.JPG" alt="サンプル画像" width="900" /></a>
